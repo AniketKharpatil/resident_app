@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Flutter projects\\chat_with_doc_app-main\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aniket\\.gradle\\caches\\transforms-2\\files-2.1\\b02545ddaba4795c4d4e0d840062a4cf\\jetified-kommunicateui-2.1.8\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,3,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,143,288",
+                        "endLines": "2,5,6",
+                        "endColumns": "87,12,42",
+                        "endOffsets": "138,283,326"
+                    }
+                }
+            ]
+        }
+    ]
+}

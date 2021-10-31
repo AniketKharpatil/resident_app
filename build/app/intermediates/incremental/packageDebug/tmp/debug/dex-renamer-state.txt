@@ -1,0 +1,13 @@
+#Sun Oct 31 19:57:16 IST 2021
+path.3=classes4.dex
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=D\:\\Flutter projects\\chat_with_doc_app-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes4.dex
+base.2=D\:\\Flutter projects\\chat_with_doc_app-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes3.dex
+base.1=D\:\\Flutter projects\\chat_with_doc_app-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+base.0=D\:\\Flutter projects\\chat_with_doc_app-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex

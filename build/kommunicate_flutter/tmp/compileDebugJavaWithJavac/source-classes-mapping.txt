@@ -1,0 +1,12 @@
+io/kommunicate/kommunicate_flutter_plugin/KommunicateFlutterPlugin.java
+ io.kommunicate.kommunicate_flutter_plugin.KommunicateFlutterPlugin
+ io.kommunicate.kommunicate_flutter_plugin.KommunicateFlutterPlugin$1
+ io.kommunicate.kommunicate_flutter_plugin.KommunicateFlutterPlugin$2
+ io.kommunicate.kommunicate_flutter_plugin.KommunicateFlutterPlugin$3
+ io.kommunicate.kommunicate_flutter_plugin.KommunicateFlutterPlugin$4
+ io.kommunicate.kommunicate_flutter_plugin.KommunicateFlutterPlugin$4$1
+ io.kommunicate.kommunicate_flutter_plugin.KommunicateFlutterPlugin$5
+ io.kommunicate.kommunicate_flutter_plugin.KommunicateFlutterPlugin$6
+ io.kommunicate.kommunicate_flutter_plugin.KommunicateFlutterPlugin$7
+io/kommunicate/kommunicate_flutter_plugin/BuildConfig.java
+ io.kommunicate.kommunicate_flutter_plugin.BuildConfig
